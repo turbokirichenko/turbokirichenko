@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 **turbokirichenko/turbokirichenko**
-- ✨ HTML5 games developer ✨
-- ✨ Micro Front-end developer ✨
+- ✨ Full-stack developer ✨
+- ✨ Stack: Nest.js Svelte  ✨
 
 **some facts about me:**
-- 🚀 My favorite framework is: [Svelte](https://svelte.dev)
-- 🍉 Also I'm using [Pixi](https://pixijs.com) for web animations
-- 🌱 I’m currently learning: [Web Assembly](https://webassembly.org/)
+- 🚀 I think that all the power is in Vanilla Js!
+- 🍉 But I also use [Typescript](https://www.typescriptlang.org/) for commercial projects
+- 🌱 Linux user
+- 🐍 I have a good command of C development and Python lang
 - 📫 How to reach me: [republichenko@gmail.com](mailto:republichenko@gmail.com)
