@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 **turbokirichenko/turbokirichenko**
-- ✨ Full-stack developer ✨
+- ✨ Streaming System Developer ✨
 - ✨ Stack: Node, C, Lua ✨
 
 **some facts about me:**
