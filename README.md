@@ -2,7 +2,7 @@
 
 **turbokirichenko/turbokirichenko**
 - ✨ Full-stack developer ✨
-- ✨ Stack: Nest.js Svelte  ✨
+- ✨ Stack: Node, C, Lua ✨
 
 **some facts about me:**
 - 🚀 I think that all the power is in Vanilla Js!
