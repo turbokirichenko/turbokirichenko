@@ -2,7 +2,9 @@
 
 **turbokirichenko/turbokirichenko**
 - ✨ Streaming System Developer ✨
-- ✨ Stack: Node, C, Lua ✨
+- ✨ Stack: Typescript, C, Lua ✨
+
+![top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=turbokirichenko&hide=javascript,css,scss,html&theme=tokyonight)
 
 **some facts about me:**
 - 🚀 I think that all the power is in Vanilla Js!
