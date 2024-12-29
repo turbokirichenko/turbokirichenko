@@ -3,8 +3,6 @@
 #### ✨ Developer of the streaming system ✨
 #### ✨ Stack: `typescript`, `c`, `lua` ✨
 
-
-
 ![top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=turbokirichenko&hide=shell,Dockerfile,solidity,svelte,css,scss,html)
 
 **some facts about me:**
